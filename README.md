@@ -21,7 +21,7 @@ No requiere servidor ni dependencias externas. Abrí `index.html` en un navegado
 
 ## Autoría y alcance
 
-El diseño visual, la arquitectura de interfaz, la implementación del software y las mejoras funcionales de este repositorio son autoría de **Bruno Cosilobo**. **Celeste Vicchi** figura como colaboradora/creadora en la identificación de la interfaz.
+El diseño visual, la arquitectura de interfaz, la implementación del software y las mejoras funcionales de este repositorio son autoría de **Bruno Cosilobo**.
 
 Esta autoría no reclama derechos sobre normas, fórmulas, modelos, textos jurídicos, citas legales o contenidos institucionales que puedan estar incorporados como referencia. El usuario debe verificar la vigencia, exactitud y autorización de uso de todo contenido jurídico antes de utilizarlo.
 
