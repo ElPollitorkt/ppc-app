@@ -1,10 +1,10 @@
 LICENCIA PROPIETARIA PPC — SOFTWARE, DISEÑO E IMPLEMENTACIÓN
 
-Copyright (c) 2026 Bruno Cosilobo. Todos los derechos reservados.
+Copyright (c) 2026 Bruno Cosilobo y Celeste Vicchi. Todos los derechos reservados.
 
 1. TITULARIDAD
 
-El diseño visual, la arquitectura de interfaz, la implementación del software, el código, la organización funcional, la experiencia de usuario y las mejoras originales de este proyecto son propiedad intelectual de Bruno Cosilobo, sin perjuicio de los derechos que correspondan a terceros sobre contenidos incorporados por referencia.
+El diseño visual, la arquitectura de interfaz, la implementación del software, el código, la organización funcional, la experiencia de usuario y las mejoras originales de este proyecto son propiedad intelectual conjunta de Bruno Cosilobo y Celeste Vicchi, sin perjuicio de los derechos que correspondan a terceros sobre contenidos incorporados por referencia.
 
 2. SIN LICENCIA GENERAL
 
@@ -12,7 +12,7 @@ La publicación de este repositorio en GitHub no constituye una licencia, autori
 
 3. ACTIVIDADES PROHIBIDAS SIN AUTORIZACIÓN ESCRITA
 
-Sin una autorización previa, expresa y escrita de Bruno Cosilobo, queda prohibido:
+Sin una autorización previa, expresa y escrita de Bruno Cosilobo y Celeste Vicchi, queda prohibido:
 
 - copiar, descargar para reutilizar, reproducir o redistribuir el código o partes sustanciales del proyecto;
 - implementar, instalar, ejecutar o adaptar el sistema en entornos personales, institucionales, comerciales o de terceros;
@@ -25,13 +25,13 @@ Sin una autorización previa, expresa y escrita de Bruno Cosilobo, queda prohibi
 
 4. AUTORIZACIONES
 
-Cualquier uso, implementación, integración, adaptación o distribución requiere un acuerdo escrito firmado o una autorización escrita verificable emitida por Bruno Cosilobo. Una conversación informal, una estrella, un fork o la mera posibilidad técnica de acceder al repositorio no constituyen autorización.
+Cualquier uso, implementación, integración, adaptación o distribución requiere un acuerdo escrito firmado o una autorización escrita verificable emitida por ambos titulares. Una conversación informal, una estrella, un fork o la mera posibilidad técnica de acceder al repositorio no constituyen autorización.
 
 Las solicitudes de autorización deben identificar al solicitante, finalidad, alcance, territorio, plazo, entorno de implementación y personas u organizaciones autorizadas. La autorización puede ser limitada, revocable y sujeta a condiciones, contraprestación o acuerdo separado.
 
 5. CONTENIDOS JURÍDICOS Y DE TERCEROS
 
-Esta licencia no atribuye a Bruno Cosilobo derechos sobre leyes, reglamentos, citas normativas, fórmulas procesales, modelos institucionales, textos jurídicos de terceros ni otros contenidos que puedan estar incorporados como referencia. Cada usuario debe verificar la titularidad, vigencia y autorización de uso de esos contenidos.
+Esta licencia no atribuye a Bruno Cosilobo ni a Celeste Vicchi derechos sobre leyes, reglamentos, citas normativas, fórmulas procesales, modelos institucionales, textos jurídicos de terceros ni otros contenidos que puedan estar incorporados como referencia. Cada usuario debe verificar la titularidad, vigencia y autorización de uso de esos contenidos.
 
 6. SIN GARANTÍA
 
@@ -39,7 +39,7 @@ EL PROYECTO SE PROPORCIONA “TAL CUAL”, SIN GARANTÍA EXPRESA O IMPLÍCITA. N
 
 7. RESPONSABILIDAD
 
-El acceso al repositorio no autoriza el uso de datos reales ni la incorporación de información confidencial. Bruno Cosilobo no será responsable por errores, omisiones, pérdida de datos, decisiones procesales, presentaciones, implementaciones no autorizadas o consecuencias derivadas del uso del proyecto.
+El acceso al repositorio no autoriza el uso de datos reales ni la incorporación de información confidencial. Bruno Cosilobo y Celeste Vicchi no serán responsables por errores, omisiones, pérdida de datos, decisiones procesales, presentaciones, implementaciones no autorizadas o consecuencias derivadas del uso del proyecto.
 
 8. RESERVA DE DERECHOS
 
