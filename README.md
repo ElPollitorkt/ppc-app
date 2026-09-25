@@ -2,7 +2,7 @@
 
 Aplicación web estática para armar, revisar y exportar actas judiciales mediante cuerpos, resolutivos modulares y soporte para múltiples imputados.
 
-> **Proyecto propietario — uso e implementación únicamente con autorización escrita de Bruno Cosilobo.**
+> **Proyecto propietario de Bruno Cosilobo y Celeste Vicchi — uso e implementación únicamente con autorización escrita de ambos titulares.**
 
 ## Características
 
@@ -17,17 +17,17 @@ Aplicación web estática para armar, revisar y exportar actas judiciales median
 
 ## Uso local
 
-El repositorio es público para documentación y evaluación. **No existe permiso general para ejecutar, instalar, implementar, copiar, modificar, redistribuir o integrar este proyecto.** Cualquier uso requiere autorización previa, expresa y escrita de Bruno Cosilobo.
+El repositorio es público para documentación y evaluación. **No existe permiso general para ejecutar, instalar, implementar, copiar, modificar, redistribuir o integrar este proyecto.** Cualquier uso requiere autorización previa, expresa y escrita de Bruno Cosilobo y Celeste Vicchi.
 
 ## Autoría
 
-El diseño visual, la arquitectura de interfaz, la implementación del software, el código y las funcionalidades originales de este repositorio son autoría de **Bruno Cosilobo**.
+El diseño visual, la arquitectura de interfaz, la implementación del software, el código y las funcionalidades originales de este repositorio son autoría conjunta de **Bruno Cosilobo y Celeste Vicchi**.
 
-La publicación en GitHub no transfiere derechos ni constituye una licencia de uso. No se permite crear forks, réplicas, adaptaciones o implementaciones sin autorización escrita.
+La publicación en GitHub no transfiere derechos ni constituye una licencia de uso. No se permite crear forks, réplicas, adaptaciones o implementaciones sin autorización escrita de ambos titulares.
 
 ## Solicitud de autorización
 
-Toda solicitud debe describir el uso previsto, la organización o persona solicitante, el alcance de la implementación, el plazo, el entorno y cualquier distribución prevista. La autorización solo será válida si consta por escrito y es emitida por Bruno Cosilobo.
+Toda solicitud debe describir el uso previsto, la organización o persona solicitante, el alcance de la implementación, el plazo, el entorno y cualquier distribución prevista. La autorización solo será válida si consta por escrito y es emitida por Bruno Cosilobo y Celeste Vicchi.
 
 ## Alcance jurídico
 
