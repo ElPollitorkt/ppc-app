@@ -1,5 +1,7 @@
 # PPC — Planilla de Protocolización y Control Penal
 
+**Creado por Bruno Cosilobo y Celeste Vicchi.**
+
 Aplicación web estática para armar, revisar y exportar actas judiciales mediante cuerpos, resolutivos modulares y soporte para múltiples imputados.
 
 > **Proyecto propietario de Bruno Cosilobo y Celeste Vicchi — uso e implementación únicamente con autorización escrita de ambos titulares.**
