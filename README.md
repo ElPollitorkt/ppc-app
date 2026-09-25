@@ -2,6 +2,8 @@
 
 Aplicación web estática para armar, revisar y exportar actas judiciales mediante cuerpos, resolutivos modulares y soporte para múltiples imputados.
 
+> **Proyecto propietario — uso e implementación únicamente con autorización escrita de Bruno Cosilobo.**
+
 ## Características
 
 - Cuerpos principales y resolutivos combinables.
@@ -15,20 +17,22 @@ Aplicación web estática para armar, revisar y exportar actas judiciales median
 
 ## Uso local
 
-No requiere servidor ni dependencias externas. Abrí `index.html` en un navegador moderno.
+El repositorio es público para documentación y evaluación. **No existe permiso general para ejecutar, instalar, implementar, copiar, modificar, redistribuir o integrar este proyecto.** Cualquier uso requiere autorización previa, expresa y escrita de Bruno Cosilobo.
 
-> Los datos de casos se guardan localmente en el navegador. Esta aplicación no incluye backend ni sincronización remota.
+## Autoría
 
-## Autoría y alcance
+El diseño visual, la arquitectura de interfaz, la implementación del software, el código y las funcionalidades originales de este repositorio son autoría de **Bruno Cosilobo**.
 
-El diseño visual, la arquitectura de interfaz, la implementación del software y las mejoras funcionales de este repositorio son autoría de **Bruno Cosilobo**.
+La publicación en GitHub no transfiere derechos ni constituye una licencia de uso. No se permite crear forks, réplicas, adaptaciones o implementaciones sin autorización escrita.
 
-Esta autoría no reclama derechos sobre normas, fórmulas, modelos, textos jurídicos, citas legales o contenidos institucionales que puedan estar incorporados como referencia. El usuario debe verificar la vigencia, exactitud y autorización de uso de todo contenido jurídico antes de utilizarlo.
+## Solicitud de autorización
+
+Toda solicitud debe describir el uso previsto, la organización o persona solicitante, el alcance de la implementación, el plazo, el entorno y cualquier distribución prevista. La autorización solo será válida si consta por escrito y es emitida por Bruno Cosilobo.
+
+## Alcance jurídico
+
+La autoría del software y del diseño no implica autoría sobre normas, fórmulas, modelos, textos jurídicos, citas legales o contenidos institucionales de terceros que puedan estar incorporados como referencia. La herramienta es de asistencia documental y no reemplaza la revisión profesional, judicial o institucional del Acta.
 
 ## Licencia
 
-El código y el diseño se distribuyen bajo los términos de [LICENSE](./LICENSE). La licencia no constituye asesoramiento jurídico ni garantiza que los modelos incorporados sean adecuados para un caso concreto.
-
-## Aviso
-
-La herramienta es de asistencia documental. No reemplaza la revisión profesional, judicial o institucional del Acta antes de firmarla, presentarla o incorporarla a un expediente.
+Este proyecto se encuentra bajo la [Licencia Propietaria PPC](./LICENSE). Todos los derechos no concedidos expresamente quedan reservados.
