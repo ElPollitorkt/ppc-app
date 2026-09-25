@@ -15,6 +15,14 @@ Aplicación web estática para armar, revisar y exportar actas judiciales median
 - Consola de audiencia con cronómetro y control de pendientes.
 - Accesibilidad: contraste alto, tamaño de texto y foco visible.
 
+## Vista del proyecto
+
+Estas imágenes son adelantos visuales del producto. Tienen datos ficticios y no muestran la lógica interna ni expedientes reales:
+
+![Vista general de PPC](./docs/visuals/ppc-overview.svg)
+
+![Acta y resolutivos](./docs/visuals/ppc-acta.svg)
+
 ## Uso local
 
 El repositorio es público para documentación y evaluación. **No existe permiso general para ejecutar, instalar, implementar, copiar, modificar, redistribuir o integrar este proyecto.** Cualquier uso requiere autorización previa, expresa y escrita de Bruno Cosilobo y Celeste Vicchi.
