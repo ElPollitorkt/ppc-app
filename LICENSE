@@ -1,34 +1,48 @@
-LICENCIA PPC — SOFTWARE Y DISEÑO
+LICENCIA PROPIETARIA PPC — SOFTWARE, DISEÑO E IMPLEMENTACIÓN
 
-Copyright (c) 2026 Bruno Cosilobo
+Copyright (c) 2026 Bruno Cosilobo. Todos los derechos reservados.
 
-1. AUTORÍA
+1. TITULARIDAD
 
-El diseño visual, la arquitectura de interfaz, la implementación del software y las funcionalidades originales de este proyecto son autoría de Bruno Cosilobo.
+El diseño visual, la arquitectura de interfaz, la implementación del software, el código, la organización funcional, la experiencia de usuario y las mejoras originales de este proyecto son propiedad intelectual de Bruno Cosilobo, sin perjuicio de los derechos que correspondan a terceros sobre contenidos incorporados por referencia.
 
-Esta licencia no atribuye al autor la titularidad de leyes, reglamentos, citas normativas, fórmulas procesales, modelos institucionales, textos jurídicos de terceros ni otros contenidos que puedan estar incorporados como referencia. Cada usuario es responsable de verificar sus derechos de uso y la vigencia de dichos contenidos.
+2. SIN LICENCIA GENERAL
 
-2. PERMISO DE USO
+La publicación de este repositorio en GitHub no constituye una licencia, autorización, cesión, transferencia ni permiso general de uso. El código se publica únicamente para identificación, documentación, control de versiones y evaluación del proyecto.
 
-Se concede permiso para usar, copiar, estudiar y modificar el software y el diseño de este repositorio para fines personales, educativos, institucionales o comerciales, siempre que se conserve este aviso de licencia y la atribución de autoría.
+3. ACTIVIDADES PROHIBIDAS SIN AUTORIZACIÓN ESCRITA
 
-3. CONDICIONES DE REDISTRIBUCIÓN
+Sin una autorización previa, expresa y escrita de Bruno Cosilobo, queda prohibido:
 
-Toda copia o distribución, modificada o no, debe:
+- copiar, descargar para reutilizar, reproducir o redistribuir el código o partes sustanciales del proyecto;
+- implementar, instalar, ejecutar o adaptar el sistema en entornos personales, institucionales, comerciales o de terceros;
+- modificar, traducir, transformar, descompilar, realizar ingeniería inversa o crear obras derivadas;
+- incorporar el código, el diseño, la arquitectura, la interfaz o sus funcionalidades en otro producto, servicio, expediente, plataforma o sistema;
+- publicar forks, réplicas, copias, espejos o versiones modificadas;
+- vender, sublicenciar, alquilar, ceder, ofrecer como servicio o explotar directa o indirectamente el proyecto;
+- eliminar avisos de autoría, marcas, créditos o referencias de propiedad intelectual;
+- presentar el proyecto o una adaptación como propio o como producto autorizado.
 
-- conservar este archivo LICENSE;
-- conservar la atribución a Bruno Cosilobo como autor del software y diseño;
-- indicar de forma razonable cualquier modificación sustancial;
-- no presentar los contenidos jurídicos o institucionales como creados por el autor cuando no corresponda.
+4. AUTORIZACIONES
 
-4. SIN GARANTÍA
+Cualquier uso, implementación, integración, adaptación o distribución requiere un acuerdo escrito firmado o una autorización escrita verificable emitida por Bruno Cosilobo. Una conversación informal, una estrella, un fork o la mera posibilidad técnica de acceder al repositorio no constituyen autorización.
 
-EL SOFTWARE SE ENTREGA “TAL CUAL”, SIN GARANTÍA EXPRESA O IMPLÍCITA. EL AUTOR NO GARANTIZA SU EXACTITUD, DISPONIBILIDAD, ADECUACIÓN A UN PROCEDIMIENTO, VIGENCIA NORMATIVA NI ACEPTACIÓN POR PARTE DE UN TRIBUNAL, ORGANISMO O SISTEMA DE GESTIÓN.
+Las solicitudes de autorización deben identificar al solicitante, finalidad, alcance, territorio, plazo, entorno de implementación y personas u organizaciones autorizadas. La autorización puede ser limitada, revocable y sujeta a condiciones, contraprestación o acuerdo separado.
 
-5. RESPONSABILIDAD
+5. CONTENIDOS JURÍDICOS Y DE TERCEROS
 
-El usuario debe revisar toda salida generada antes de utilizarla. El autor no será responsable por errores, omisiones, pérdida de datos, decisiones procesales, presentaciones o consecuencias derivadas del uso del software.
+Esta licencia no atribuye a Bruno Cosilobo derechos sobre leyes, reglamentos, citas normativas, fórmulas procesales, modelos institucionales, textos jurídicos de terceros ni otros contenidos que puedan estar incorporados como referencia. Cada usuario debe verificar la titularidad, vigencia y autorización de uso de esos contenidos.
 
-6. CONTENIDOS JURÍDICOS
+6. SIN GARANTÍA
 
-La inclusión de un texto jurídico, modelo o referencia normativa no constituye asesoramiento jurídico, validación oficial ni garantía de autoría. Las cuestiones de derechos sobre esos contenidos quedan fuera del alcance de esta licencia.
+EL PROYECTO SE PROPORCIONA “TAL CUAL”, SIN GARANTÍA EXPRESA O IMPLÍCITA. NO SE GARANTIZA SU EXACTITUD, DISPONIBILIDAD, SEGURIDAD, ADECUACIÓN A UN PROCEDIMIENTO, VIGENCIA NORMATIVA NI ACEPTACIÓN POR PARTE DE UN TRIBUNAL, ORGANISMO O SISTEMA DE GESTIÓN.
+
+7. RESPONSABILIDAD
+
+El acceso al repositorio no autoriza el uso de datos reales ni la incorporación de información confidencial. Bruno Cosilobo no será responsable por errores, omisiones, pérdida de datos, decisiones procesales, presentaciones, implementaciones no autorizadas o consecuencias derivadas del uso del proyecto.
+
+8. RESERVA DE DERECHOS
+
+Todos los derechos no concedidos expresamente quedan reservados. Las infracciones podrán dar lugar a reclamos civiles, medidas cautelares, solicitudes de baja de contenido y demás acciones disponibles conforme a la legislación aplicable.
+
+Esta licencia es un aviso de derechos de autor y no reemplaza un contrato específico ni asesoramiento legal profesional.
